@@ -1,0 +1,25 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: 'Yakanesia '
+    probability: 3
+  - name: Utanisia
+    probability: 1
+  - name: Kadelesia
+    probability: 1
+  - name: Salatinank
+    probability: 1
+  - name: Kitaroek
+    probability: 1
+  - name: Kuaslana
+    probability: 1
+  - name: Tanjolink
+    probability: 1
+  - name: Kersna
+    probability: 1
+  - name: Jabrun
+    probability: 1
+name: 'Yakanesia '
+source: null
+subsets: []
